@@ -18,6 +18,7 @@ For more information on the Native Python Application and the Trilobite Coder La
 """
 from setuptools import setup, find_packages
 
+
 setup(
     name="fossil-updater",
     version="0.1.0",
