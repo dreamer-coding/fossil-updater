@@ -35,20 +35,16 @@ python setup.py install
 
 ## Contributing
 
-If you're interested in contributing to this project, please consider opening pull requests or creating issues on the [GitHub repository](https://github.com/dreamer-coding-555/project-app-py). Be sure to review the guidelines provided on the project's GitHub page.
+If you're interested in contributing to this project, please consider opening pull requests or creating issues on the [GitHub repository](https://github.com/dreamer-coding-555/fossil-updater). Be sure to review the guidelines provided on the project's GitHub page.
 
 ## Feedback and Support
 
-If you encounter issues, have questions, or want to provide feedback, please don't hesitate to open an issue on the [GitHub repository](https://github.com/dreamer-coding-555/project-app-py/issues).
+If you encounter issues, have questions, or want to provide feedback, please don't hesitate to open an issue on the [GitHub repository](https://github.com/dreamer-coding-555/fossil-updater/issue).
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+This project is licensed under the [Mozilla Public License](LICENSE).
 
 ---
 
 Thank you for choosing this Python project template. Happy coding and building amazing projects!
-
-## Contact
-
-If you have questions or want to get in touch regarding programming solutions, you can find a way to contact me on my [website](https://trilobite.home.blog/contact/).
