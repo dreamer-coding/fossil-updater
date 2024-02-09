@@ -1,6 +1,6 @@
-# Python Project Template Readme
+# Fossil Tool Updater
 
-Welcome to the **Python Project Template** repository! This README offers user-friendly instructions for setting up, running, and contributing to a Python project. The project is designed for Python 3.7 and above, and it includes guidelines for various development tasks. 
+The Tool Updater script is a Python-based tool designed to simplify the process of updating and installing Meson and Ninja, two essential build system tools. The script features a graphical user interface (GUI) for user interaction, providing real-time feedback through a terminal-like display. 
 
 ## Who is This For?
 
@@ -11,27 +11,23 @@ This guide is aimed at developers of all skill levels who want to work on Python
 Before you get started, ensure that you have the following prerequisites:
 
 - **Python 3.7+**: Make sure you have Python 3.7 or a higher version installed on your system.
+- **Verify** that the pip package manager is available.
 
 ## Setting up the Python Environment
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/dreamer-coding-555/project-app-py.git
-   cd project-app-py
+   git clone https://github.com/dreamer-coding-555/fossil-updater.git
+   cd fossil-updater
    ```
 
-2. **Install Project Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Running the Project** (Optional Step)
+2. **Running the Project** (Optional Step)
 
 ```bash
-python entry.py
+python fossil-updater.py
 ```
 
-4. **Installing the Project**
+3. **Installing the Project**
 
 ```bash
 python setup.py install
